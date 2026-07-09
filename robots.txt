@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /js/
-Disallow: /assets/fotos/thumbs/
-
-Sitemap: https://www.lourencoelourenco.adv.br/sitemap.xml

@@ -1,8 +1,2 @@
-*.sql
-*.zip
-*.pptx
-*.php
 .DS_Store
-wp-config*.php
-mysql-*.sql
-*.sql
+*.log
